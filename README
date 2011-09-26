@@ -7,3 +7,7 @@ The blog has a series of examples each intended to explain the API and
 different types of uses.  The blog entries are titled "Example #n".  The
 filenames use the same naming convention.  You can read about the purpose
 and the explanation of the code in the blog.
+
+There is one exception to the naming convention.  The blog entry for
+Example #20 describes three command line utilities.  Those utilities are
+named getcolumns.py, getquery.py, and getview.py. 
