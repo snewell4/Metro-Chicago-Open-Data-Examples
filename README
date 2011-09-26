@@ -1,0 +1,9 @@
+9/26/11
+These files accompany the Metro Chicago Open Data Examples blog.  They are
+simple examples of using the Socrata Open Data API (SODA) with the Socrata data
+portals in use at City of Chicago and Cook County.
+
+The blog has a series of examples each intended to explain the API and
+different types of uses.  The blog entries are titled "Example #n".  The
+filenames use the same naming convention.  You can read about the purpose
+and the explanation of the code in the blog.
